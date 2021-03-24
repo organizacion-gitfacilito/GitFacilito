@@ -41,6 +41,11 @@ File: Layout CSS
 
 #header div:last-child{margin-bottom:0;}/* Used when elements stack in small viewports */
 
+.h6 {
+	background-color: red;
+	border: 2px solid red;
+}
+
 
 /* Search Form
 --------------------------------------------------------------------------------------------------------------- */
