@@ -45,6 +45,8 @@ File: Layout CSS
 	background-color: red;
 	border: 2px solid red;
 	transition: 0.3s;
+	text-transform: uppercase;
+	letter-spacing: 5px;
 }
 .h6:hover{
 	transform: scale(1.2);
